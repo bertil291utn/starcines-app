@@ -1,0 +1,6 @@
+export const STARCINES_CARTELERA = process.env.NEXT_PUBLIC_STARCINES_CARTELERA_URL;
+export const STARCINES_IMAGE = process.env.NEXT_PUBLIC_STARCINES_IMAGE_URL;
+export const TMBD_URL = process.env.NEXT_PUBLIC_TMBD_URL;
+export const API_KEY = process.env.NEXT_PUBLIC_TMBD_API_KEY;
+export const TMBD_IMAGE_URL = process.env.NEXT_PUBLIC_TMBD_IMAGE_URL; 
+export const STARCINES_PRICES_URL = process.env.NEXT_PUBLIC_STARCINES_PRICES_URL; 

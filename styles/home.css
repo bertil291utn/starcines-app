@@ -1,0 +1,24 @@
+.capitalize-first:first-letter {
+  text-transform: capitalize;
+}
+
+.rounded-bl-6xl {
+  border-bottom-left-radius: 6rem;
+}
+.rounded-tl-4xl {
+  border-top-left-radius: 4rem;
+}
+
+.text-rotate-90-rl {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+.read-more-button {
+  color: #476FB6;
+  font-weight: bold;
+}
+
+.bg-gray-CCCED4{
+  background-color:#CCCED4;
+}
